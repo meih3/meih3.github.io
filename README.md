@@ -1,2 +1,1 @@
-# meih3.github.io
-#meow
+Mandy's website WIP
